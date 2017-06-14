@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+<<<<<<< HEAD
+validator.Checked=WebRoot/xmking
+=======
+validator.Checked=WebRoot
+>>>>>>> 6e8f604bae5dc0293f6568084781eb7d15906f84
+validator.Unchecked=
